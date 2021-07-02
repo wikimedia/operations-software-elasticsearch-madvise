@@ -1,0 +1,5 @@
+elasticsearch-madvise (0.1) buster-wikimedia; urgency=medium
+
+  * Initial release
+
+ -- Kunal Mehta <legoktm@debian.org>  Thu, 01 Jul 2021 17:52:32 -0700
